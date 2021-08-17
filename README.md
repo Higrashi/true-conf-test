@@ -2,7 +2,7 @@
 npm install
 
 # Запуск
-npm start
+npm run start
 #
 Приложение запускается на localhost:8080
 #
